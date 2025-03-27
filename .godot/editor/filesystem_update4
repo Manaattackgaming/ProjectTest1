@@ -1,2 +1,4 @@
 res://TestProject1/new_script.gd
 res://main_game.gd
+res://assets/Player Ship.tscn
+res://scenes/MainMenu.tscn
